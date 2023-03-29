@@ -1,0 +1,8 @@
+.eggs/
+.pytest_cache
+build/
+dist/
+market_wss.egg-info/
+tests/__pycache__/
+market_wss/__pycache__/
+data/
